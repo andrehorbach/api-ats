@@ -5,21 +5,23 @@ Here you can find some of the most popular ATS (Applicant Tracking System) I hav
 
 Most of these scripts are aimed towards fetching Jobs and Candidates data.
 
-Bizneo
+API Docs Reference:
+
+Bizneo - 
 https://connect.bizneo.com/ats/v3
 
-Greenhouse
+Greenhouse - 
 https://developers.greenhouse.io/harvest.html#introduction
 
-Gupy
+Gupy - 
 https://developers.gupy.io
 
-Lever
+Lever - 
 https://hire.lever.co/developer/documentation
 Python code retrieves 'Notes' data. 
 
-Pandape
+Pandape - 
 https://api.pandape.com.br/index.html
 
-Recruitee
+Recruitee - 
 https://docs.recruitee.com/reference/candidatesidnotes
